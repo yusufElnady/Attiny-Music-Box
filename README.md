@@ -6,7 +6,7 @@ The ones where you had to load a spring to play a song.
 
 This project does the same, but with **electronics!**
 
-Till now, the PCB consists of an ATTiny26L and a passive buzzer, but that was due to the tight deadline back then, but now it's time to spice it up. The songs till nw are:
+Till now, the PCB consists of an ATTiny26L and a passive buzzer, but that was due to the tight deadline back then, but now it's time to spice it up. The songs added till now are:
 - Fur Elise (disabled)
 - Happy Birthday
 
